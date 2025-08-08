@@ -2,7 +2,7 @@
 ### Descrição
 Este repositório armazena códigos em Python de um Dashboard sobre salários na área de Ciência de Dados, realizado no curso: Imersão Dados com Python (Alura).
 
-## Visualização
+## 👀 Visualização
 
 * Disponível para visualização em https://dashboard-salaries-python-2025-aram.streamlit.app
 
