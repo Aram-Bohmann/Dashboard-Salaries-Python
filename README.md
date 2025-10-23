@@ -4,6 +4,10 @@ Este repositório armazena códigos em Python de um Dashboard sobre salários na
 
 ### 🖼️ Imagens Visuais
 A seguir, uma demonstração visual do projeto:
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bbb68563-8dee-43b4-bec9-58d4dbe8ed3e" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/66414f61-96b7-4c87-adcc-644db52233f5" />
+
 
 ## 👀 Visualização
 
